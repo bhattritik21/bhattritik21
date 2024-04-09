@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is Ritik and I'm a Software Developer</h2>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+
+<p> My name is Ritik and I'm a Software developer, from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_s3odaybSRr7-zxPBOJE4p2tpoHeGBvGEqXuhTxTnA&s" width="17" /> <b>Pune, India</b>. </p>
+
+## About me
+
+- ✨ Creating bugs since 2021
+- 📚 I'm currently learning AI <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
+- 🎯 Goals: Making everday life ez for Engineers🚀
+- 🎲 And ... i play ⚽ football
+
 
 ###
 
