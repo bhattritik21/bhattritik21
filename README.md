@@ -5,7 +5,7 @@
 ## About me
 
 - ✨ Creating bugs since 2021
-- 📚 I'm currently learning AI <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
+- 📚 I'm currently learning AI 🖥 and docker 🐳
 - 🎯 Goals: Making everday life ez for Engineers🚀
 - 🎲 And ... i play ⚽ football
 
