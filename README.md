@@ -5,7 +5,7 @@
 ## About me
 
 - ✨ Creating bugs since 2021
-- 📚 I'm currently learning AI 🖥 and docker 🐳
+- 📚 I'm currently exploring the tech world 
 - 🎯 Goals: Making everday life ez for Engineers🚀
 - 🎲 And ... i play ⚽ football
 
